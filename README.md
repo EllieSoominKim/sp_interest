@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![ML](https://img.shields.io/badge/MachineLearning-Project-green)
+
 # sp_interest
 
 ## Dashboard Preview
