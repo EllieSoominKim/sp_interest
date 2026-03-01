@@ -1,5 +1,9 @@
 # sp_interest
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Analysis of the Impact of Interest Rate Changes on Stock Price Returns and Forecasting Models
 
 This project analyzes how interest rate changes influence stock market returns and builds forecasting models using statistical analysis and machine learning techniques.
