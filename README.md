@@ -2,7 +2,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![ML](https://img.shields.io/badge/MachineLearning-Project-green)
 
-# sp_interest
+# 📊 Quantitative Macro-Finance Research Series
+
+## Phase 1 — Interest Rate Impact Analysis (sp_interest)
+This repository contains Phase 1 of an ongoing research project investigating macroeconomic signals and financial market prediction using statistical and machine learning approaches.
 > Research Project | Quantitative Finance & Machine Learning
 
 ## Dashboard Preview
