@@ -121,6 +121,22 @@ streamlit run app.py
 
 ---
 
+## Future Research Directions
+
+This project represents the first phase of a broader research agenda
+exploring the relationship between macroeconomic policy signals and financial markets.
+
+Future work includes:
+
+- NLP-based analysis of Federal Reserve statements and policy sentiment
+- Integration of macroeconomic indicators into predictive models
+- Advanced time-series forecasting using deep learning approaches
+- Cross-market analysis between U.S. and global equity markets
+
+The project will be continuously expanded toward research-level financial forecasting models.
+
+---
+
 ## Author
 
 **Soomin Kim**
