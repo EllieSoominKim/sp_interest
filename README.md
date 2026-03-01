@@ -9,6 +9,16 @@
 
 ![Dashboard](dashboard.png)
 
+---
+
+## Live Demo
+
+Try the interactive dashboard online:
+
+[👉 https://YOUR-APP-NAME.streamlit.app](https://spinterest-ijbbemftekiahmjncdrvyy.streamlit.app/)
+
+---
+
 ## Analysis of the Impact of Interest Rate Changes on Stock Price Returns and Forecasting Models
 
 This project analyzes how interest rate changes influence stock market returns and builds forecasting models using statistical analysis and machine learning techniques.
