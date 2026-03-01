@@ -21,6 +21,16 @@ Try the interactive dashboard online:
 
 ---
 
+##  Research Question
+
+- Do interest rate changes have statistically significant effects on stock market returns?
+- Can machine learning models improve financial market forecasting beyond traditional econometric approaches?
+- How do macroeconomic signals propagate into equity market behavior?
+
+This project explores these questions through empirical data analysis and predictive modeling.
+
+---
+
 ## Analysis of the Impact of Interest Rate Changes on Stock Price Returns and Forecasting Models
 
 This project analyzes how interest rate changes influence stock market returns and builds forecasting models using statistical analysis and machine learning techniques.
@@ -112,7 +122,7 @@ streamlit run app.py
 
 ---
 
-## Methodology
+## Research Methodology
 
 1. Data preprocessing and feature engineering
 2. Correlation analysis between interest rates and returns
