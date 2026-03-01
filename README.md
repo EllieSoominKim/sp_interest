@@ -3,6 +3,7 @@
 ![ML](https://img.shields.io/badge/MachineLearning-Project-green)
 
 # sp_interest
+> Research Project | Quantitative Finance & Machine Learning
 
 ## Dashboard Preview
 
@@ -11,6 +12,28 @@
 ## Analysis of the Impact of Interest Rate Changes on Stock Price Returns and Forecasting Models
 
 This project analyzes how interest rate changes influence stock market returns and builds forecasting models using statistical analysis and machine learning techniques.
+
+---
+
+## Project Demo
+
+👉 YouTube Presentation  
+[Project Demo Video](https://www.youtube.com/watch?v=abpcodGO6_M)
+
+---
+
+## Research Report
+
+👉 Full PDF Report  
+[Download Report](report.pdf)
+
+---
+
+## Research Objective
+
+This project investigates whether macroeconomic interest rate changes
+have statistically significant effects on stock market returns and
+examines whether machine learning models can improve financial forecasting performance.
 
 ---
 
@@ -77,9 +100,24 @@ streamlit run app.py
 
 ---
 
+## Methodology
+
+1. Data preprocessing and feature engineering
+2. Correlation analysis between interest rates and returns
+3. OLS regression modeling
+4. Lag correlation analysis
+5. Machine learning forecasting models
+6. Interactive visualization using Streamlit
+
+---
+
 ## Author
 
 **Soomin Kim**
-AI Student
-Interested in FinTech, Quantitative Finance, and Machine Learning
+AI & statistics Student  
+Interested in:
+- FinTech
+- Quantitative Finance
+- Machine Learning
+- Financial Data Analysis
 
