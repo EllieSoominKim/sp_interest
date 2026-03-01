@@ -15,7 +15,7 @@
 
 Try the interactive dashboard online:
 
-[👉 https://YOUR-APP-NAME.streamlit.app](https://spinterest-ijbbemftekiahmjncdrvyy.streamlit.app/)
+[https://YOUR-APP-NAME.streamlit.app](https://spinterest-ijbbemftekiahmjncdrvyy.streamlit.app/)
 
 ---
 
