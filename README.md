@@ -39,14 +39,14 @@ This project analyzes how interest rate changes influence stock market returns a
 
 ## Project Demo
 
-👉 YouTube Presentation  
+YouTube Presentation  
 [Project Demo Video](https://www.youtube.com/watch?v=abpcodGO6_M)
 
 ---
 
 ## Research Report
 
-👉 Full PDF Report  
+Full PDF Report  
 [Download Report](report.pdf)
 
 ---
