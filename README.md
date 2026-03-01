@@ -1,6 +1,6 @@
 # sp_interest
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
