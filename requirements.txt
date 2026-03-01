@@ -6,4 +6,4 @@ yfinance
 scikit-learn
 statsmodels
 matplotlib
-
+seaborn
