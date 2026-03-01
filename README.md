@@ -88,11 +88,13 @@ The goal of this project is to:
 ```
 sp_interest/
 │
-├── app.py              # Streamlit dashboard application
-├── analysis.py         # Statistical & ML analysis
-├── data_pipeline.py    # Data preprocessing pipeline
-├── requirements.txt    # Python dependencies
-└── README.md
+├── app.py                # Streamlit dashboard application
+├── analysis.py           # Statistical & ML analysis
+├── data_pipeline.py      # Data preprocessing pipeline
+├── requirements.txt      # Python dependencies
+├── README.md
+├── dashboard.png
+└── report.pdf
 ```
 
 ---
